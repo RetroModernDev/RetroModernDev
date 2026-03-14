@@ -1,29 +1,10 @@
 # Hi! I'm Marcin Kwiatkowski 👋
 
-15 years ago I was roofing houses, and I don't really know what pushed me to engineering. *Anyway, I am not complaining about this.*
+I build apps, integrate AI, architect systems and repair vintage Amigas.
 
-## What I do
-- **Full-stack development** with Python, C#, Node.js, Vue.js, React
-- **Cloud architecture** on Google Cloud Platform (certified Professional Cloud Architect)
-- **Technical leadership** and team mentoring
+**Stack:** C, C#, Vue.js, React, Node.js, Python, Flutter, TypeScript, Google Cloud, Docker
 
-## Services I offer
-- Full-stack web application development
-- Software architecture consulting  
-- Technical mentoring & code reviews
-- Cloud migration & infrastructure setup
-- Healthcare & e-commerce solutions
-
-## Tech stack
-- **Backend:** Python, C#, Node.js
-- **Frontend:** Vue.js, React, JavaScript
-- **Cloud:** Google Cloud Platform, Terraform
-- **Other:** Magento
-
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/frodigo/) | [Website](https://frodigo.com) | [Medium](https://medium.com/@frodigo)
-
----
-*I solve problems with code. Why? Because I feel that I can help to solve some big problems by just writing some code.*
+🔗 [retromodern.dev](https://retromodern.dev) · [YouTube](https://youtube.com/@retromoderndev) · [LinkedIn](https://linkedin.com/in/retromoderndev) · [Medium](https://medium.com/@RetroModernDev) · [X](https://x.com/RetroModernDev) · [Instagram](https://instagram.com/retromoderndev)
 
 <!--
 **Frodigo/Frodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
