@@ -4,7 +4,7 @@ I build apps, integrate AI, architect systems and repair vintage Amigas.
 
 **Stack:** C, C#, Vue.js, React, Node.js, Python, Flutter, TypeScript, Google Cloud, Docker
 
-🔗 [retromodern.dev](https://retromodern.dev) · [YouTube](https://youtube.com/@retromoderndev) · [LinkedIn](https://linkedin.com/in/retromoderndev) · [Medium](https://medium.com/@RetroModernDev) · [X](https://x.com/RetroModernDev) · [Instagram](https://instagram.com/retromoderndev) · [TikTok](https://www.tiktok.com/@retromoderndev) · [Facebook](https://www.facebook.com/retromoderndev/)
+🔗 [retromodern.dev](https://retromodern.dev) · [YouTube](https://youtube.com/@retromodernplayer) · [LinkedIn](https://linkedin.com/in/retromoderndev) · [Medium](https://medium.com/@RetroModernDev) · [Instagram](https://instagram.com/retromodernplayer) · [TikTok](https://www.tiktok.com/@retromodernplayer) · [Facebook](https://www.facebook.com/retromodernplayer/)
 
 <!--
 **Frodigo/Frodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
